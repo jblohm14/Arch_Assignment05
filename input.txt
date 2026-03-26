@@ -1,2 +1,0 @@
-Hello world! This is a simple example for a text processing pipeline.
-This pipeline is a simple pipeline.
